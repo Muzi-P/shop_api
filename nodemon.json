@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MangoosePW": "1234",
+        "JWT_KEY": "secjuerjemne"
+    }
+}
